@@ -13,6 +13,6 @@ To generate the test token, use below endpoint
  
 
 ## Screenshot
-![api request](/images/getclientjwt.jpg "Get test token.")
+![api request](/blob/master/Images/getclientjwt.jpg "Get test token.")
 
-![jwt payload](/images/jwtpayload.jpg "JWT payload.")
+![jwt payload](/blob/master/Images/jwtpayload.jpg "JWT payload.")
