@@ -15,4 +15,4 @@ To generate the test token, use below endpoint
 ## Screenshot
 ![api request](https://github.com/sivakumar966/JWT.Net4.5/blob/master/Images/getclientjwt.jpg "Get test token.")
 
-![jwt payload](/blob/master/images/jwtpayload.jpg "JWT payload.")
+![jwt payload](https://github.com/sivakumar966/JWT.Net4.5/blob/master/Images/jwtpayload.jpg "JWT payload.")
